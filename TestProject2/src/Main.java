@@ -37,7 +37,7 @@ public class Main {
 		double vb = 0.06864;
 		
 		
-		// COMPLEX TYPES
+		// COMPOSITE TYPES
 		
 		// String (text - niz karaktera)
 		String jds = "Marija Marjanovic";
